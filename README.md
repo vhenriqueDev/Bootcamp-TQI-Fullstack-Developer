@@ -10,3 +10,8 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
 - Introdução à Programação e Pensamento Computacional
 - Introdução ao Git e ao GitHub
 - [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer)
+
+### Módulo II - HTML/CSS3
+
+- Introdução a criação de websites com HTML5 e CSS3
+- Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions
