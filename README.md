@@ -13,5 +13,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
 
 ### Módulo II - HTML/CSS3
 
-- Introdução a criação de websites com HTML5 e CSS3
+- Primeiro item da lista
+   - Estrutura básica
+   - Semântica - Parte 2
 - Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions
