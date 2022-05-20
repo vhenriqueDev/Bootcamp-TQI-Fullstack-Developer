@@ -14,6 +14,6 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
 ### Módulo II - HTML/CSS3
 
 - Primeiro item da lista
-   - Estrutura básica
+   - [Estrutura básica](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/Estrutura-basica.html)
    - Semântica - Parte 2
 - Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions
