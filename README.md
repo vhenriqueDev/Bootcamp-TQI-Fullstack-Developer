@@ -20,6 +20,8 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
    - [2 Exercício prático html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/exercicio-pratico2.html)
    - [3 Exercício prático html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/exercicio-pratico3.html)
 ### Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions
+
+- parte 1
 - [parte 2 html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/parte2.html) 
    - [parte 2 css](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/css/style.css)
 - [parte 3 html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/parte3.html)
@@ -28,3 +30,4 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
    - [parte 4 css](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/css/style4.css)
 - [parte 5 html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/parte5.html)
    - [parte 5 css](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/css/style5.css)
+- parte 6
