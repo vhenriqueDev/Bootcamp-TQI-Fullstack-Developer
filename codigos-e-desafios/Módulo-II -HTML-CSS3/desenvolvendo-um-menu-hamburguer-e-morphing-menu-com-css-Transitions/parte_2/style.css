@@ -13,7 +13,7 @@ body {
 .card {
   height: 400px;
   width: 500px;
-  background-image: url(../assets/montanha.webp);
+  background-image: url(./assets/montanha.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
