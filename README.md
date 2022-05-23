@@ -21,13 +21,14 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
    - [3 Exercício prático html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/exercicio-pratico3.html)
 ### Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions
 
-- parte 1
-- [parte 2 html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/parte2.html) 
-   - [parte 2 css](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/css/style.css)
-- [parte 3 html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/parte3.html)
-   - [parte 3 css](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/css/styles.css)
-- [parte 4 html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/parte4.html)
-   - [parte 4 css](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/css/style4.css)
-- [parte 5 html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/parte5.html)
-   - [parte 5 css](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/css/style5.css)
-- parte 6
+- Parte 1
+- [Parte 2 html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/parte2.html) 
+   - [Parte 2 css](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/css/style.css)
+- [Parte 3 html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/parte3.html)
+   - [Parte 3 css](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/css/styles.css)
+- [Parte 4 html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/parte4.html)
+   - [Parte 4 css](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/css/style4.css)
+- [Parte 5 html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/parte5.html)
+   - [Parte 5 css](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/css/style5.css)
+- Parte 6
+- [Projeto Final](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/tree/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-Transitions/projeto_final)
