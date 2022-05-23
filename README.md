@@ -16,7 +16,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
 ### Módulo II - HTML/CSS3
 
 - Introdução ao curso de HTML
-   - [Estrutura básica](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/Estrutura-basica.html)
+   - [Estrutura básica](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/Introdu%C3%A7%C3%A3o-a-cria%C3%A7%C3%A3o-de-websites-com-HTML5-e-CSS3/Estrutura-basica.html)
    - [Material de apoio](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/Introdu%C3%A7%C3%A3o-a-cria%C3%A7%C3%A3o-de-websites-com-HTML5-e-CSS3/material-de-apoio.txt)
    - Semântica  - parte 1
    - [Semântica - Parte 2](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/Introdu%C3%A7%C3%A3o-a-cria%C3%A7%C3%A3o-de-websites-com-HTML5-e-CSS3/semantica-parte2.html)
