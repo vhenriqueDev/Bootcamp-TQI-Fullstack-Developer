@@ -27,8 +27,16 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
    - [2 Exercício prático html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/exercicio-pratico2.html)
    - Tags li, ul e ol
    - [3 Exercício prático html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/exercicio-pratico3.html)
-- Introdução e conceitos básicos do CSS3
 
+- Introdução e conceitos básicos do CSS3
+   - Introdução ao CSS3
+   - Conceitos básicos
+   - Material de apoio
+   - Estilizando elementos
+   - Estilizando textos
+   - Estilizando listas
+   - Propriedades de dimensões e alinhamento
+   
 ##
 
 ### Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions
