@@ -22,7 +22,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
    - [Semântica - Parte 2](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/Introdu%C3%A7%C3%A3o-a-cria%C3%A7%C3%A3o-de-websites-com-HTML5-e-CSS3/semantica-parte2.html)
    - Tags para texto
    - Tags para links
-   - [1 Exercício prático html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/exercicio-pratico.html)
+   - [1 Exercício prático html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/Introdu%C3%A7%C3%A3o-a-cria%C3%A7%C3%A3o-de-websites-com-HTML5-e-CSS3/exercicio-pratico.html)
    - Tag img
    - [2 Exercício prático html](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/exercicio-pratico2.html)
    - Tags li, ul e ol
