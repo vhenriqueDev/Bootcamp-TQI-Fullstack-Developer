@@ -62,3 +62,40 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
   - Recursos básicos
   - Extensões e temas
   - Terminal e Git
+
+##
+
+### Introdução ao JavaScript
+
+- O que é Javascript?
+  - Apresentação do curso
+  - História, Evolução e Aplicações
+  - [Slides 1](https://drive.google.com/file/d/1OewERdQ1_0xVRj_d04PCCBxOS2qRZmwe/view?usp=sharing)
+  - [Slides 2](https://drive.google.com/file/d/18sCfJ8MVRShhbViehk79-4ca-lQQ4fqY/view?usp=sharing)
+  - Terminal e Git
+
+- Recursos básicos da linguagem
+  - Manipulando um arquivo
+  - Funções
+  - [Slides](https://drive.google.com/file/d/1Fa6bzst4d7tO7hf19FxEIfRiWAr2sdZl/view?usp=sharing)
+
+- Console
+  - Executando um arquivo .js
+  - [Slides](https://drive.google.com/file/d/1OOkZSQhsVcassphzKP0LhecqvpRPXexO/view?usp=sharing)
+
+- Javascript em uma página da web
+  - Estrutura de projeto
+  - Inserindo javascript numa página HTML
+  - Interagindo com os elementos do DOM
+  - [Slides](https://drive.google.com/file/d/1WIFDplD9a2rZdkeXRW1TggbL_HQRuNmH/view?usp=sharing)
+
+- Colocando em prática
+  - Criando um contador
+  - Desafio: To-do list
+  - [Slides](https://drive.google.com/file/d/1NFh_RDX-R7Y2MgwUYutpplvNZGCDio7P/view?usp=sharing)
+  - [Github](https://github.com/stebsnusch/introducao-ao-javascript)
+
+- Mercado de Trabalho
+  - Frameworks
+  - Mercado de trabalho
+  - [Slides](https://drive.google.com/file/d/1vxqzu7Ds3AvAT3fqopuJb74b7dZv-bai/view?usp=sharing)
