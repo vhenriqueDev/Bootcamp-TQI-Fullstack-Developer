@@ -35,7 +35,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
    - Estilizando elementos
    - Estilizando textos
    - Estilizando listas
-   - Propriedades de dimensões e alinhamento
+   - [Propriedades de dimensões e alinhamento](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/tree/main/codigos-e-desafios/M%C3%B3dulo-II%20-HTML-CSS3/Introdu%C3%A7%C3%A3o-a-cria%C3%A7%C3%A3o-de-websites-com-HTML5-e-CSS3/Html%20e%20Css)
    
 ##
 
