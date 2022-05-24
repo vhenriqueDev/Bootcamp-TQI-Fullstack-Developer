@@ -53,3 +53,10 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
 ##
 
 ### Módulo III - Javascript
+
+- IDE Instalação e Configuração (Visual Studio Code)
+  - Apresentação do curso
+  - Instalação
+  - Recursos básicos
+  - Extensões e temas
+  - Terminal e Git
