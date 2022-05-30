@@ -75,8 +75,8 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
   - Terminal e Git
 
 - Recursos básicos da linguagem
-  - Manipulando um arquivo
-  - Funções
+  - [Manipulando um arquivo](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-III-Javascript/teste.js)
+  - [Funções](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-III-Javascript/funcao.js)
   - [Slides](https://drive.google.com/file/d/1Fa6bzst4d7tO7hf19FxEIfRiWAr2sdZl/view?usp=sharing)
 
 - Console
