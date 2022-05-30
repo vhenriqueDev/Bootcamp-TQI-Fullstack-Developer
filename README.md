@@ -84,13 +84,13 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
   - [Slides](https://drive.google.com/file/d/1OOkZSQhsVcassphzKP0LhecqvpRPXexO/view?usp=sharing)
 
 - Javascript em uma página da web
-  - Estrutura de projeto
+  - [Estrutura de projeto](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/tree/main/codigos-e-desafios/M%C3%B3dulo-III-Javascript/Estrutura-de-projeto)
   - Inserindo javascript numa página HTML
   - Interagindo com os elementos do DOM
   - [Slides](https://drive.google.com/file/d/1WIFDplD9a2rZdkeXRW1TggbL_HQRuNmH/view?usp=sharing)
 
 - Colocando em prática
-  - Criando um contador
+  - [Criando um contador](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/tree/main/codigos-e-desafios/M%C3%B3dulo-III-Javascript/projeto-contador)
   - Desafio: To-do list
   - [Slides](https://drive.google.com/file/d/1NFh_RDX-R7Y2MgwUYutpplvNZGCDio7P/view?usp=sharing)
   - [Github](https://github.com/stebsnusch/basecamp-javascript/tree/main/introducao-ao-javascript)
