@@ -93,7 +93,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
   - Criando um contador
   - Desafio: To-do list
   - [Slides](https://drive.google.com/file/d/1NFh_RDX-R7Y2MgwUYutpplvNZGCDio7P/view?usp=sharing)
-  - [Github](https://github.com/stebsnusch/introducao-ao-javascript)
+  - [Github](https://github.com/stebsnusch/basecamp-javascript/tree/main/introducao-ao-javascript)
 
 - Mercado de Trabalho
   - Frameworks
