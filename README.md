@@ -80,7 +80,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
   - [Slides](https://drive.google.com/file/d/1Fa6bzst4d7tO7hf19FxEIfRiWAr2sdZl/view?usp=sharing)
 
 - Console
-  - Executando um arquivo .js
+  - [Executando um arquivo .js](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/blob/main/codigos-e-desafios/M%C3%B3dulo-III-Javascript/teste1.js)
   - [Slides](https://drive.google.com/file/d/1OOkZSQhsVcassphzKP0LhecqvpRPXexO/view?usp=sharing)
 
 - Javascript em uma página da web
