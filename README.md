@@ -99,3 +99,36 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
   - Frameworks
   - Mercado de trabalho
   - [Slides](https://drive.google.com/file/d/1vxqzu7Ds3AvAT3fqopuJb74b7dZv-bai/view?usp=sharing)
+
+##
+
+### Sintaxe Básica em JavaScript
+
+- Apresentação do curso
+  - Apresentação do curso
+  - [Slide - Apresentação do curso](https://docs.google.com/presentation/d/13o3hIKjqcnl8ZYNn3QhVQXlDHrFuX27f/edit#slide=id.p2)
+
+- O que danado é JavaScript?
+  - O que danado é JavaScript?
+  - [Slide - O que danado é JavaScript?](https://drive.google.com/file/d/1Ez2ZsPED0k2gkar_8JNDACJv3pCkyL7s/view)
+
+- Entendendo variáveis e seus valores
+  - Entendendo variáveis e seus valores
+  - [Slide - Entendendo variáveis e seus valores](https://drive.google.com/file/d/13lpV1BvcbScdyRy_n9_VCZpOkgyAVAD4/view)
+
+- Vetores e Objetos
+  - Vetores e Objetos
+  - [Slide - Vetores e Objetos](https://drive.google.com/file/d/1WOfx5PNv6I4edI6XsNhW8KyKLvbbQ1ns/view)
+
+- Estruturas condicionais
+  - Estruturas condicionais
+  - [Slide - Estruturas condicionais](https://drive.google.com/file/d/1BaZkzwgt73dmFGrEi_0R-U753y5e_h3Q/view)
+
+- Funções e suas particularidades
+  - Funções e suas particularidades
+  - [Slide - Funções e suas particularidades](https://drive.google.com/file/d/1oG3hGJwqVZL2MBLI6mKwYnA5-PJxPbay/view)
+
+- Aprofundando em funções
+  - Aprofundando em funções
+  - [Slide - Aprofundando em funções](https://drive.google.com/file/d/1QrPlhBewz07QPLB4NDoVhgWprdKsqYNa/view)
+  - [Link Github](https://github.com/DianaMartine/curso-dio-sintaxe-basica-javascript)
