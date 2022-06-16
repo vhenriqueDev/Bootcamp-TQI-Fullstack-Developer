@@ -109,11 +109,11 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
   - [Slide - Apresentação do curso](https://docs.google.com/presentation/d/13o3hIKjqcnl8ZYNn3QhVQXlDHrFuX27f/edit#slide=id.p2)
 
 - O que danado é JavaScript?
-  - O que danado é JavaScript?
+  - [O que danado é JavaScript?](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/tree/main/codigos-e-desafios/M%C3%B3dulo-III-Javascript/Sintaxe-B%C3%A1sica-em-JavaScript/aula%2001)
   - [Slide - O que danado é JavaScript?](https://drive.google.com/file/d/1Ez2ZsPED0k2gkar_8JNDACJv3pCkyL7s/view)
 
 - Entendendo variáveis e seus valores
-  - Entendendo variáveis e seus valores
+  - [Entendendo variáveis e seus valores](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/tree/main/codigos-e-desafios/M%C3%B3dulo-III-Javascript/Sintaxe-B%C3%A1sica-em-JavaScript/aula02)
   - [Slide - Entendendo variáveis e seus valores](https://drive.google.com/file/d/13lpV1BvcbScdyRy_n9_VCZpOkgyAVAD4/view)
 
 - Vetores e Objetos
