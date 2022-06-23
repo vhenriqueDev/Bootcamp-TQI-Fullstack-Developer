@@ -117,7 +117,7 @@ Este repositório ira mostrar toda a minha trilha de estudos do bootcamp da TQI 
   - [Slide - Entendendo variáveis e seus valores](https://drive.google.com/file/d/13lpV1BvcbScdyRy_n9_VCZpOkgyAVAD4/view)
 
 - Vetores e Objetos
-  - Vetores e Objetos
+  - [Vetores e Objetos](https://github.com/vhenriqueDev/Bootcamp-TQI-Fullstack-Developer/tree/main/codigos-e-desafios/M%C3%B3dulo-III-Javascript/Sintaxe-B%C3%A1sica-em-JavaScript/aula03)
   - [Slide - Vetores e Objetos](https://drive.google.com/file/d/1WOfx5PNv6I4edI6XsNhW8KyKLvbbQ1ns/view)
 
 - Estruturas condicionais
